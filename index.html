@@ -238,15 +238,15 @@
             show(elements.messageContainer);
             show(elements.happyGif1);
 
-            setTimeout(() => {
-                hide(elements.happyGif1);
-                show(elements.appyGif2);
-                
-                // Redirigir después de 4 segundos
-                setTimeout(() => {
-                    window.location.ref = "https://craxker-hero.github.io/Flowers/"; // Reemplaza con tu enlace especial
-                }, 4000);
-            }, 1500);
+setTimeout(() => {
+    hide(elements.happyGif1);
+    show(elements.happyGif2); // Corregido aquí
+
+    // Redirigir después de 4 segundos
+    setTimeout(() => {
+        window.location.href = "https://craxker-hero.github.io/Flowers/"; // Corregido aquí
+    }, 4000);
+}, 1500);
         });
 
         // Evento para el botón No
