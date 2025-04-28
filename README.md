@@ -17,6 +17,12 @@ Este es un sitio web minimalista creado para davirle lo que sientes a tu amor.
 <br>
 Construido con tecnologías web modernas y totalmente responsivo. Puedes personalizarlo fácilmente editando los archivos HTML/CSS/JS.
 </p>
+
+<!-- Agrega aquí tu número de WhatsApp -->
+<p>
+📱 Contáctame por WhatsApp: 
+<a href="https://wa.link/45qry5" target="_blank">Haz clic aquí</a>
+</p>
 </div>
 
 ---
@@ -32,6 +38,6 @@ Sigue estos pasos para clonar y personalizar el proyecto localmente
 ## `Desarrollo Local`
 ```bash
 git clone https://github.com/craxker-hero/Declaraci-n.git
-cd Declraci-n
+cd Declaraci-n
 # Abre index.html en tu navegador o usa:
 python -m http.server 3000
