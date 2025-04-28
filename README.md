@@ -7,7 +7,7 @@ Declaración de amor - Versión 1.0
 <!-- Sección de Vista Previa -->
 <div align="center">
 <h2>✨ Vista Previa</h2>
-<img src="https://raw.githubusercontent.com/craxker-hero/Declaraci-n/main/assets/preview.png" width="500" alt="Vista previa del proyecto">
+<img src="https://files.catbox.moe/8xm9kf.jpg" width="500" alt="Vista previa del proyecto">
 <p><em>Captura del sitio web en funcionamiento</em></p>
 </div>
 
