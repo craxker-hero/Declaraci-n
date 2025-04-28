@@ -1,8 +1,27 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/craxker-hero/Declaraci-n/main/assets/preview.png" width="400">
 <h1>
-Declaración de amor- Versión 1.0
+Declaración de amor - Versión 1.0
 </h1>
+</div>
+
+<!-- Sección de Vista Previa -->
+<div align="center">
+<h2>✨ Vista Previa</h2>
+<img src="https://raw.githubusercontent.com/craxker-hero/Declaraci-n/main/assets/preview.png" width="500" alt="Vista previa del proyecto">
+<p><em>Captura del sitio web en funcionamiento</em></p>
+</div>
+
+<!-- Sección del Proyecto Web -->
+<div align="center">
+<h2>🌐 Demo Online</h2>
+<p>
+🚀 <a href="https://craxker-hero.github.io/Declaraci-n/" target="_blank">Ver proyecto en vivo</a>
+</p>
+
+<h2>📂 Código Fuente</h2>
+<p>
+💻 <a href="https://github.com/craxker-hero/Declaraci-n" target="_blank">Acceder al código en GitHub</a>
+</p>
 </div>
 
 <div align="center">
@@ -13,12 +32,12 @@ Desarrollado por <a href="https://github.com/craxker-hero">あ ┊ 𝐂𝐫𝐚�
 
 <div align="center">
 <p>
-Este es un sitio web minimalista creado para davirle lo que sientes a tu amor. 
+Este es un sitio web minimalista creado para expresar lo que sientes a tu amor. 
 <br>
 Construido con tecnologías web modernas y totalmente responsivo. Puedes personalizarlo fácilmente editando los archivos HTML/CSS/JS.
 </p>
 
-<!-- Agrega aquí tu número de WhatsApp -->
+<!-- Contacto WhatsApp -->
 <p>
 📱 Contáctame por WhatsApp: 
 <a href="https://wa.me/TUNUMERODETELEFONO" target="_blank">Haz clic aquí</a>
