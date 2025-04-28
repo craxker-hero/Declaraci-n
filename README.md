@@ -7,7 +7,7 @@ Declaración de amor- Versión 1.0
 
 <div align="center">
 <h3>
-Desarrollado por <a href="https://github.com/tuusuario">TuNombre</a>
+Desarrollado por <a href="https://github.com/craxker-hero">あ ┊ 𝐂𝐫𝐚𝐱𝐤𝐞𝐫</a>
 </h3>
 </div>
 
