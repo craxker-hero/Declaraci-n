@@ -2,6 +2,9 @@
 <h1>
 Declaración de amor - Versión 1.0
 </h1>
+
+<!-- Contador de visitas -->
+<p><img src="https://visitor-badge.laobi.icu/badge?page_id=craxker-hero.Declaraci-n" alt="Visitas"></p>
 </div>
 
 <!-- Sección de Vista Previa -->
